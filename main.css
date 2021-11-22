@@ -1,0 +1,79 @@
+/***********Navigation Bar*********/
+nav{
+
+    margin-bottom: 50px;
+    height: 75px;
+    background-color: #079992;
+
+}
+
+a{
+    
+    text-decoration: none;
+}
+
+body{
+    
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;   
+}
+
+
+div > p{
+    
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    
+}
+.inner-div{
+    margin: 50px;
+    margin-right: 50px;
+}
+nav > a {
+    display: inline;
+    text-align: center;
+    padding-right: 20px;
+    margin-right: 15px;
+    color: white;
+    font-size: 49px;
+     }
+      
+    
+nav > a:hover{
+
+   
+    display: inline;
+    
+    color: gold;
+
+    
+
+}
+/*****************Side Bar******************/
+aside{
+    margin-top: -50px;
+    float: left;
+    margin-right: 50px;
+    display: block;
+    height: 2000px;
+    width: 150px;
+    background-color: #38ada9;
+}
+aside > a{
+    display: block;
+    text-align: center;
+    padding-top:20px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+aside > a:hover{
+    color: gold;
+}
+.px20{
+font-size: 20px;
+margin-top: 5px;
+}
+/******************* paragraphs **************/
